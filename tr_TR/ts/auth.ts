@@ -48,7 +48,7 @@
     <name>KCnCommonAuthManager</name>
     <message>
         <source>WPS Business</source>
-        <translation>WPS Business</translation>
+        <translation>WPS Kurumsal</translation>
     </message>
 </context>
 <context>
@@ -872,7 +872,7 @@ Bitiminden sonra, bazı özellikler düzgün çalışmaz. Şimdi yenileyin.</tra
     <name>KxWelcomePageDlg</name>
     <message>
         <source>Includes %1-Day FREE Trial of WPS Office Business Edition</source>
-        <translation>WPS Office Business Edition ve %1 Gün ÜCRETSİZ Deneme dahildir</translation>
+        <translation>WPS Office Kurumsal Sürüm ve %1 Gün ÜCRETSİZ Deneme dahildir</translation>
     </message>
     <message>
         <source>Login/Register</source>
